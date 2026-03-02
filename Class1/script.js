@@ -13,15 +13,17 @@ function number() {
     }
 
 }
-// number();
+number();
 
 // 2. Min / Max of Two / Three Numbers 
 function number1() {
      let a = 10, b = 20, c = 5;
+    
 // Min;
 let min=a;
 if(b<min)min=b;
 if(c<min)min=c;
+    
 // Max
 let max=a;
 if(b>max)max=b;
