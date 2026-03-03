@@ -17,7 +17,7 @@ function secondLargest() {
     }
     console.log("SecondLargest number is  :", secondlargest);
 };
-// secondLargest();
+secondLargest();
 
 // 2. Fibonacci Series 
 
@@ -33,9 +33,20 @@ function fibonacci(n) {
         y = z;
     }
 }
-// fibonacci(10);
+fibonacci(10);
 
 // 3. Even & Odd 
+
+function number(n) {
+    if (n % 2 == 0) {
+        console.log("even number");
+    }
+    else {
+        console.log("odd number");
+    }
+}
+number(3);
+
 
 
 
