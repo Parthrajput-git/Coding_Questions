@@ -47,6 +47,26 @@ function number(n) {
 }
 number(3);
 
+//4. Find the Maximum and Minimum Elements in an Array.
+
+function find() {
+    let arr = [2, 3, 4, 5, 6, 7, 0];
+    let max = arr[0];
+    let min = arr[0];
+    for (let i = 0; i <= arr.length; i++) {
+        if (arr[i] < min) {
+            min = arr[i];
+        }
+        if (arr[i] > max) {
+            max = arr[i];
+        }
+    }
+    console.log("This is Minimum :", min);
+    console.log("This is Maximum :", max);
+
+}
+// find();
+
 
 
 
