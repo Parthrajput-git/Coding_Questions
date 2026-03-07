@@ -67,6 +67,19 @@ function find() {
 }
 // find();
 
+//5. Reverse an Array
+function reversedArr() {
+    let arr = [10, 20, 30, 40, 50];
+    let reversed = [];
+    for (let i = arr.length - 1; i >= 0; i--) {
+        reversed[reversed.length] = arr[i];
+    }
+    console.log("Arr is reversed", reversed);
+
+}
+reversedArr();
+
+
 
 
 
