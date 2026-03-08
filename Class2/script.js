@@ -79,6 +79,9 @@ function reversedArr() {
 }
 reversedArr();
 
+//6. Tables
+
+
 
 
 
