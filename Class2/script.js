@@ -79,7 +79,17 @@ function reversedArr() {
 }
 reversedArr();
 
-//6. Tables
+//6. Tables.
+function table(n) {
+    let sum;
+    for (let i = 0; i <= n; i++) {
+        sum = i + i;
+        console.log("Tables",sum);
+        
+    }
+}
+table(10);
+
 
 
 
