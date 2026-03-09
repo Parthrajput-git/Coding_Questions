@@ -92,6 +92,17 @@ table(10);
 
 //7. Square all n numbers.
 
+function square(n){
+    let squ;
+    for(let i=0;i<=n;i++){
+        squ=i*i;
+         console.log(i,"*",i,"=",squ);
+    }
+   
+    
+}
+square(10);
+
 
 
 
