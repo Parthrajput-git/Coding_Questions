@@ -90,6 +90,9 @@ function table(n) {
 }
 table(10);
 
+//7. Square all n numbers.
+
+
 
 
 
