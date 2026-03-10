@@ -104,6 +104,20 @@ function square(n){
 square(10);
 
 //8. Check if Array is Sorted;
+function sorted() {
+    let arr = [10, 20, 30, 140, 50, 60];
+    let isSorted = true;
+    for (let i = 0; i < arr.length - 1; i++) {
+        if (arr[i] > arr[i + 1]) {
+            isSorted = false;
+        }
+
+    }
+    console.log(isSorted);
+
+}
+sorted();
+
 
 
 
