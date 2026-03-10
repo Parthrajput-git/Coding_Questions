@@ -103,6 +103,9 @@ function square(n){
 }
 square(10);
 
+//8. Check if Array is Sorted;
+
+
 
 
 
