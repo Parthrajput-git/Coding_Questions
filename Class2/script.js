@@ -118,6 +118,10 @@ function sorted() {
 }
 sorted();
 
+//9. Find the Duplicate Elements in an Array
+
+
+
 
 
 
