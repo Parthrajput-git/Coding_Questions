@@ -132,6 +132,33 @@ function dublicate() {
 }
 dublicate();
 //10. Find the Missing Number in an Array.
+function missing(){
+    let arr=[2,3,4,5,6];
+    let n=5;
+    for(let i=0;i<=n.length;i++){
+        let found=false;
+        for(let j=0;j<n.langth;j++){
+            if(arr[j]===i){
+                found=true;
+            }
+        }
+        if(found===false){
+            console.log("Missing",i);
+            
+        }
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
