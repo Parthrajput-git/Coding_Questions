@@ -131,6 +131,7 @@ function dublicate() {
     }
 }
 dublicate();
+//10. Find the Missing Number in an Array.
 
 
 
