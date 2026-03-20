@@ -150,7 +150,7 @@ function missing(){
 
 }
 
-
+// Swipe number
 
 
 
