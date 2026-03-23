@@ -152,7 +152,7 @@ function missing(){
 
 // Swipe number
 function swipe(){
-
+   let a=10;
 
 }
 
