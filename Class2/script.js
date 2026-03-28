@@ -156,6 +156,7 @@ function swipe(){
     let b=5;
     let temp=a;
     a=b;
+    b=temp;
 
 }
 
