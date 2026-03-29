@@ -158,6 +158,7 @@ function swipe(){
     a=b;
     b=temp;
 console.log(a);
+    console.log(a);
 }
 
 
