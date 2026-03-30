@@ -158,7 +158,7 @@ function swipe(){
     a=b;
     b=temp;
 console.log("First number  :",a);
-    console.log(b);
+    console.log("Second number  :",b);
 }
 
 
