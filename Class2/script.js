@@ -161,6 +161,8 @@ console.log("First number  :",a);
     console.log("Second number  :",b);
 }
 
+swipe();
+
 
 
 
