@@ -157,8 +157,8 @@ function swipe(){
     let temp=a;// temp means a tempary number 
     a=b;
     b=temp;
-console.log("First number  :",a);
-    console.log("Second number  :",b);
+console.log("First swap number  :",a);
+console.log("Second number  :",b);
 }
 
 swipe();
