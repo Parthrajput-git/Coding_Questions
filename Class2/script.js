@@ -150,7 +150,7 @@ function missing(){
 
 }
 
-// Swipe number
+// Swape numbers
 function swipe(){
    let a=10;
     let b=5;
