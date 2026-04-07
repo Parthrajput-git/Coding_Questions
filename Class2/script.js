@@ -1,4 +1,4 @@
-//There are all coding
+//There are all coding questons:
 
 // 1. Second Largest Number
 
