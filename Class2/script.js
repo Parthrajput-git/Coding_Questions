@@ -1,3 +1,5 @@
+//There are all coding
+
 // 1. Second Largest Number
 
 function secondLargest() {
