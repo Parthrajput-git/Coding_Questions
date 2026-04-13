@@ -164,7 +164,10 @@ console.log("Second swap number  :",b);
 }
 
 swipe();
+//
+function age(){
 
+}
 
 
 
