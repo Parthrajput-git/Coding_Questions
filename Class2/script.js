@@ -170,7 +170,7 @@ if(){
 console.log("Available is voting :",n);
 }
     else{
-        console.log();
+        console.log("Not available for voting  :",);
 }
 
 
