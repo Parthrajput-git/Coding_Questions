@@ -169,6 +169,8 @@ function age(n){
 if(){
 console.log("Available is voting :",n);
 }
+    else{
+        console.log();
 }
 
 
