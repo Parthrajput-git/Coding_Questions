@@ -170,7 +170,7 @@ if(n>18){
 console.log("Available is voting :",n);
 }
     else{
-        console.log("Not available for voting  :",);
+        console.log("Not available for voting  :",n);
 }
 
 
