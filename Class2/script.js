@@ -166,7 +166,7 @@ console.log("Second swap number  :",b);
 swipe();
 //
 function age(n){
-if(){
+if(n>18){
 console.log("Available is voting :",n);
 }
     else{
