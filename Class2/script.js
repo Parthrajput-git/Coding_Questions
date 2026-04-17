@@ -173,7 +173,7 @@ console.log("Available is voting :",n);
         console.log("Not available for voting  :",n);
 }
 
-    age();
+    age(19);
 
 
 
