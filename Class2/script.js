@@ -178,6 +178,9 @@ console.log("Available is voting :",n);
     age(19);
 
     //The next function is sum
+    function sum(){
+    
+    }
     
 
 
