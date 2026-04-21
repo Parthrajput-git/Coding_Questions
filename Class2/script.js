@@ -179,7 +179,7 @@ console.log("Available is voting :",n);
 
     //The next function is sum
     function sum(){
-    
+       let a=19;
     }
     
 
