@@ -181,6 +181,7 @@ console.log("Available is voting :",n);
     function sum(){
        let a=19;
         let b=29;
+        let sum=0;
     }
     
 
