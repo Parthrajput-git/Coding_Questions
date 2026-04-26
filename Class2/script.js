@@ -185,6 +185,9 @@ console.log("Available is voting :",n);
         sum=a+b;
         console.log(sum);
     }
+    sum();
+
+    
     
 
 
