@@ -182,7 +182,7 @@ console.log("Available is voting :",n);
        let a=19;
         let b=29;
         let sum=0;
-        if(){
+        if(sum==!0){
         sum=a+b;
         console.log("Sum of the two numbers  :",sum);
     }
