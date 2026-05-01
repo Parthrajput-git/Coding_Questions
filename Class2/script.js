@@ -186,7 +186,7 @@ console.log("Available is voting :",n);
         sum=a+b;
         console.log("Sum of the two numbers  :",sum);
     }else{
-            
+            console.log("not found");
         }
     }
     sum();
