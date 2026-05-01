@@ -185,7 +185,9 @@ console.log("Available is voting :",n);
         if(sum==!0){
         sum=a+b;
         console.log("Sum of the two numbers  :",sum);
-    }
+    }else{
+            
+        }
     }
     sum();
 
