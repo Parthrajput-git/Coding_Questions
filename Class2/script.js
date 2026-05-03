@@ -152,7 +152,7 @@ function missing(){
 
 }
 
-// Swape numbers
+//11 Swape numbers
 function swipe(){
    let a=101;
     let b=51;
