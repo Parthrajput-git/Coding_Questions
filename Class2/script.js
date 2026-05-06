@@ -186,7 +186,7 @@ console.log("Available is voting :",n);
         sum=a+b;
         console.log("Sum of the two numbers  :",sum);
     }else{
-            console.log("Number is invailid");
+            console.log("Numbers is invailid  :");
         }
     }
     sum();
