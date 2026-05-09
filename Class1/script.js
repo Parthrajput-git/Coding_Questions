@@ -1,3 +1,4 @@
+//The all logical 
 //1. Min / Max of Two 
 function number() {
     let a = 10, b = 20, c = 5;
