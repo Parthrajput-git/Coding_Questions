@@ -1,6 +1,4 @@
-
-
-// 1. Second Largest Number
+// 1. Second Largest arr Number
 
 function secondLargest() {
     let arr = [1, 2, 3, 4, 25, 16];
