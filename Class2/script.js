@@ -182,12 +182,6 @@ console.log("Available is voting :",n);
         let sum=0;
         if(sum==!0){
         sum=a+b;
-        console.log("Sum of the two numbers  :",sum);
-    }else{
-            console.log("Numbers is invailid  :");
-        }
-    }
-    sum();
 
     
     
