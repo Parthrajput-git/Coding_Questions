@@ -163,12 +163,7 @@ console.log("Second swap number  :",b);
 
 swipe();
 
-// 12. The function is condition base
-function age(n){
-    
-if(n>18){
-console.log("Available is voting :",n);
-}
+
     
     
 
