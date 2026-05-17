@@ -169,12 +169,6 @@ function age(n){
 if(n>18){
 console.log("Available is voting :",n);
 }
-    else{
-        console.log("Not available for voting  :",n);
-}
-
-    age(19);
-
     
     
 
