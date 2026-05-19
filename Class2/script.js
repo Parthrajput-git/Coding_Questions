@@ -154,7 +154,7 @@ function missing(){
 function swipe(){
    let a=101;
     let b=51;
-    let temp=a;// temp means a te
+    let temp=a;
      a=b;
     b=temp;
 console.log("First swap number  :",a);
