@@ -158,7 +158,7 @@ function swipe(){
      a=b;
     b=temp;
 console.log("First swap number a :",a);
-console.log("Second swap number  b:",b);
+
 }
 
 swipe();
