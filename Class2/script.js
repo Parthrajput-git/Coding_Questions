@@ -157,7 +157,6 @@ function swipe(){
     let temp=a;
      a=b;
     b=temp;
-console.log("First swap number a :",a);
 
 }
 
