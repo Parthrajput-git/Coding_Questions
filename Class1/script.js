@@ -25,7 +25,7 @@ let min=a;
 if(b<min)min=b;
 if(c<min)min=c;
     
-// Max
+// Max number
 let max=a;
 if(b>max)max=b;
 if(c>max)max=c;
