@@ -20,7 +20,7 @@ number();
 function number1() {
      let a = 10, b = 20, c = 5;
     
-// Min;
+// Min number;
 let min=a;
 if(b<min)min=b;
 if(c<min)min=c;
