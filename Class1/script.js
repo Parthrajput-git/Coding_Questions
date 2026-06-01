@@ -30,7 +30,7 @@ let max=a;
 if(b>max)max=b;
 if(c>max)max=c;
 
-console.log("Minimum number  :",min);
+console.log("Minimum numbers  :",min);
 console.log("Maximum number  :",max);
 }
  number1();
